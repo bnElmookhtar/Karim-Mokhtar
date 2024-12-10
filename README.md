@@ -24,7 +24,8 @@
 - [🚀 AI-Powered Quiz App](#): A dynamic quiz app with Firebase integration.  
 - [🧠 NLP Pipeline](#): Comprehensive text preprocessing pipeline for sentiment analysis.
 - [Cancer Detection](#): Demo for detecting several types of skin cancer using CNN
-- [Help me in my graducation project(HMIMGP)](#):Flutter demo for helping undergrade students in there graduation project  
+- [Help me in my graducation project(HMIMGP)](#):Flutter demo for helping undergrade students in there graduation project
+- [ DeepFake Audio Detector (DFAD)](#):Web based app for detectiong fake audios using CNN 
 
 ---
 
